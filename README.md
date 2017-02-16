@@ -9,3 +9,4 @@ https://read.douban.com/ebook/969523/                   Spring技术内幕<br>
 http://product.dangdang.com/23414526.html   jQuery技术内幕：深入解析jQuery架构设计与实现原理 <br>
 http://jquery.miaov.com/                    妙味课堂 jQuery 源码分析视频<br>
 http://www.zhihu.com/question/20521802      完全理解jQuery源代码，在前端方面算什么水平？<br>
+##oschina open source project learning(https://git.oschina.net/)
